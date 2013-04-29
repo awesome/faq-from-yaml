@@ -1,0 +1,36 @@
+- category: General
+  nickname: general
+  description:
+  questions:
+    - question: >
+        I have a suggestion, whom should I contact?
+      nickname: suggestions
+      answer: >
+        We would love to hear any suggestions, comments or complaints that you may have.
+        Please submit them to our [Suggestion Box][https://www.example.com/suggestions],
+        email [support@example.com] or call us at 888-555-1212.
+        We look forward to hearing from you!
+    - question: >
+        I captured a great medical image that I'd like to de-identify and share with you. How do I do that?
+      nickname: share
+      answer: >
+        Email us at [info@example.com] (please don't include any Protected Health
+        Information). We'd love to have you write up an interesting case and share
+        it with our growing community of pediatricians and ENTs.
+- category: Image Quality
+  nickname: image-quality
+  description:
+  questions:
+    - question: >
+        How do I improve the focus?
+      nickname: focus
+      answer: >
+        The focal length of the device is designed to be similar to traditional devices, but the view interface
+        can take some getting used to. Let us know if you have continued difficulty capturing great images.
+    - question: >
+        My images are too bright, how do I turn the light down?
+      nickname: brightness
+      answer: >
+        If your images consistently too bright or seem over-exposed you can decrease the illumination
+        using the brightness slider in the camera view on the app. If that doesn't help, give us call or visit
+        [https://www.example.com/support].
